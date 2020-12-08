@@ -1,0 +1,26 @@
+{
+  "name": "gitdownmarkdown",
+  "version": "0.0.1",
+  "description": "Realtime, in-browser markdown viewer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kyrose/git-down-markdown.git"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "kyrose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyrose/git-down-markdown/issues"
+  },
+  "homepage": "https://github.com/kyrose/git-down-markdown#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
